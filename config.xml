@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.basicphonegap" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Basic PhoneGap</name>
+<widget id="com.askent.baselinepg" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Basic PhoneGap-SWK</name>
     <description>
         Simple company info application
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        Brad Traversy
+    <author email="scott@askent.com" href="http://askent.com">
+        Scott Krusemark
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
